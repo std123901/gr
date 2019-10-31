@@ -9,6 +9,5 @@ tags:
   - wristwatch
   - activity tracker
   - health
-  - device
   - gadget
 ---
