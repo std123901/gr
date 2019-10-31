@@ -5,4 +5,10 @@ caption: Τα ρολόγια παρακολούθησης της φυσικής 
 title: fitness-tracker
 categories:
   - fitness
+tags:
+  - wristwatch
+  - activity tracker
+  - health
+  - device
+  - gadget
 ---
